@@ -1,4 +1,6 @@
-public class EdgardMethod {
+public static void main(String[] args) {
+    
+//EdgardMethod 
 
     int n1 = 10;
     int n2 = 5;
